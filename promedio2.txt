@@ -1,0 +1,4 @@
+Alumno : 12345-6 - Fabian
+Materia : MATEMATICAS - Promedio : 6.4
+Materia : LENGUAJE - Promedio : 5.8
+Materia : CIENCIA - Promedio : 5.5

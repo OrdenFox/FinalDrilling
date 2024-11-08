@@ -1,0 +1,11 @@
+package com.colegio.modelos;
+
+MateriaEnum materiaEnum = MateriaEnum.values()[opcion - 1];
+
+public enum MateriaEnum {
+    MATEMATICAS,
+    LENGUAJE,
+    CIENCIA,
+    HISTORIA
+   
+}
